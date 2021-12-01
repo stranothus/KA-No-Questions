@@ -1,0 +1,1 @@
+Automatically goes to Tips and Thanks on Khan Academy instead of defaulting to questions so you don't embarrass yourself.
